@@ -1,0 +1,15 @@
+{
+  "name": "kateweirportfolio",
+  "version": "3.0.0",
+  "description": "Portfolio for web designer & developer Kate Weir",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kate Weir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "nodemailer": "^2.0.0"
+  }
+}
